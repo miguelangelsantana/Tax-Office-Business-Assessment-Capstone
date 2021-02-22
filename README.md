@@ -1,8 +1,9 @@
 # Customer Segmentation and Customer Churn Analysis
 ## Small Business | Tax Office Insights
 
-** Author: Miguel Santana**
-* Blog post: [Medium](https://msantana269.medium.com/clustering-customer-churn-time-series-b51c9f59d691)
+**Author: Miguel Santana**
+
+Blog post: [Medium](https://msantana269.medium.com/clustering-customer-churn-time-series-b51c9f59d691)
 
 ## Abstract
 
