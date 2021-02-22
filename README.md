@@ -1,10 +1,7 @@
 # Customer Segmentation and Customer Churn Analysis
 ## Small Business | Tax Office Insights
 
-* Student name: Miguel Santana
-* Student pace: Full Time
-* Scheduled project review date/time: 12/1/2020, 5 PM
-* Instructor name: James Irving
+** Author: Miguel Santana**
 * Blog post: [Medium](https://msantana269.medium.com/clustering-customer-churn-time-series-b51c9f59d691)
 
 ## Abstract
