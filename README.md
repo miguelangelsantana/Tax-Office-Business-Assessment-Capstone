@@ -190,7 +190,7 @@ Please review the narrative of our in the following jupyter notebooks: [Data Cle
 
 For any additional questions, please reach out via email at santana2.miguel@gmail.com, on [LinkedIn](https://www.linkedin.com/in/miguel-angel-santana-ii-mba-51467276/) or on [Twitter.](https://twitter.com/msantana_ds)
 
-##### Repository Structure:
+##### Repository Structure
 
 ```
 
